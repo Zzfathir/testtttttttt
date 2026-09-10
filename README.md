@@ -98,7 +98,7 @@ Kelana will be a mobile-friendly web application for planning trips, repairing d
 | **Frontend**<br>**Hosting** | Vercel | Supports Vite applications<br>and provides a shareable<br>deployment URL for<br>judging and testing. | Hobby hosting is<br>restricted to eligible<br>personal,<br>non-commercial use.<br>We will use an<br>appropriate plan if our<br>deployment falls<br>outside those<br>conditions. |
 | --------------------------- | ------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-Supabase will host the database, authentication, storage, and backend functions. Vercel will host the frontend. The source code and setup instructions will be maintained in GitHub. Supabase Edge Functions, Supabase access policies, Vite hosting, Vercel plan conditions
+Supabase will host the database, authentication, storage, and backend functions. Vercel will host the frontend. The source code and setup instructions will be maintained in GitHub. Supabase Edge Functions, Supabase access poliscies, Vite hosting, Vercel plan conditions
 
 Supabase’s Free plan currently includes a 500 MB database and 1 GB file storage, and projects can pause after one week of inactivity. We will keep the demonstration dataset small and check service availability before judging. Supabase pricing
 
